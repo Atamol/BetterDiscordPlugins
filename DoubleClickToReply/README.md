@@ -2,6 +2,8 @@
 
 Double click someone else's message to start replying.
 
+![Demo_DoubleClickToReply](Demo_DoubleClickToReply.gif)
+
 ## Install
 
 Drop `DoubleClickToReply.plugin.js` into your BetterDiscord plugins folder and enable it.
