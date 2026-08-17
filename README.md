@@ -1,6 +1,8 @@
 # Atamol's BetterDiscord Plugin Works
 
-Last Update: 2026/06/04
+Plugins: https://betterdiscord.app/developers/atamol
+
+Last Update: 2026/08/18
 
 ## BetterDoubleClickToEdit
 
